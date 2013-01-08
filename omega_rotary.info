@@ -39,7 +39,7 @@ css[global.css][options][weight] = '10'
 css[colors-global.css][name] = 'Common colors to all schemes'
 css[colors-global.css][description] = 'This file holds colors that will not be changed by the color module.'
 css[colors-global.css][options][weight] = '15'
-stylesheets[all][] = css/colors.css
+stylesheets[all][] = 'colors.css'
 
 settings[alpha_grid] = 'alpha_default'
 settings[alpha_primary_alpha_default] = 'normal'
